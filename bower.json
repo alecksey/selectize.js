@@ -10,5 +10,9 @@
   },
   "_source": "https://github.com/selectize/selectize.js.git",
   "_target": "^0.15.2",
-  "_originalSource": "https://github.com/selectize/selectize.js.git"
+  "_originalSource": "https://github.com/selectize/selectize.js.git",
+  "main" : [
+    "dist/js/selectize.js",
+    "dist/css/selectize.bootstrap3.css"
+  ]
 }
